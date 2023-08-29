@@ -2,7 +2,7 @@
 
 /**
  * binary_trees_ancestor - It finds the lowest node
- * @first: A pointer to the  1st node 
+ * @first: A pointer to the  1st node
  * @second: A pointer to the 2nd node
  * Return: NULL
  */
