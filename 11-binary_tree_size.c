@@ -3,7 +3,6 @@
 /**
  * Auth: Ofiare Liam
  * binary_tree_size - It measures the size of a binary tree
- *
  * @tree: A pointer to the root node of the tree to measure the size
  * Return: The size or 0 if tree is NULL
  */
