@@ -4,7 +4,6 @@
  * binary_trees_ancestor - It finds the lowest node
  * @first: A pointer to the  1st node 
  * @second: A pointer to the 2nd node
- *
  * Return: A pointer to the lowest node or NULL
  */
 binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
